@@ -1,0 +1,15 @@
+.header {
+  grid-area: header;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .header-menu {
+    .header-menu-link {
+      margin: 16px;
+      color: rgb(51, 51, 51);
+      text-decoration: none;
+    }
+  }
+}

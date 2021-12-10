@@ -1,0 +1,14 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 16px;
+  .footer-links-container {
+    float: right;
+    .footer-link {
+      margin: 16px;
+      text-decoration: none;
+      color: rgb(44, 44, 44);
+    }
+  }
+}
